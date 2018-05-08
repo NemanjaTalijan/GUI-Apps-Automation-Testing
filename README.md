@@ -1,2 +1,2 @@
-# GUI-Apps-Automation-Testing
-Testing windows app
+# GUI Apps Automation Testing
+  -Code is on develop branch
